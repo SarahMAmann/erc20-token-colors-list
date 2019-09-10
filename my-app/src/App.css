@@ -35,9 +35,13 @@
   padding-left: 80px;
 }
 
-.App-link {
-  color: #61dafb;
+
+.search-bar-container {
+  width: 40%;
+  padding-top: 220px;
+  margin: 0 auto;
 }
+
 
 @keyframes App-logo-spin {
   from {
