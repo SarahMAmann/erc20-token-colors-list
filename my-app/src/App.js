@@ -2,6 +2,7 @@ import React from 'react'
 import logo from './logo.svg'
 import './App.css'
 import { Search } from './components/search'
+import { ListArea } from './components/list-area'
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
         </div>
         <div className="search-bar-container">
         <Search className='search-bar' />
+        </div>
+        <div>
+        <ListArea />
         </div>
       </header>
     </div>

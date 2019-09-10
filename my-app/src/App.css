@@ -37,9 +37,22 @@
 
 
 .search-bar-container {
-  width: 40%;
+  width: 50%;
   padding-top: 220px;
   margin: 0 auto;
+}
+
+.color-list {
+  margin: 0 auto;
+}
+/* .token-name {
+  width: 100px;
+  float: left;
+} */
+
+.color-value {
+  float: right;
+  width: 100px;
 }
 
 
