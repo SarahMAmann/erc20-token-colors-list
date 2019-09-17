@@ -21,6 +21,7 @@ function App() {
         <div>
         <ListArea />
         </div>
+        <div className="footer"></div>
       </header>
     </div>
   );
