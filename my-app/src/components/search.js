@@ -11,7 +11,8 @@ export class Search extends React.Component {
                 borderRadius: 25,
                 borderTopRightRadius: 1, 
                 borderBottomRightRadius: 1, 
-                borderRight: 'transparent'}} 
+                borderRight: 'transparent',
+                height: 45}}
             />
             <Button variant="outline-secondary" style={{
                 borderRadius: 25, 

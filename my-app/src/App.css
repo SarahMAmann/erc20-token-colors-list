@@ -43,16 +43,23 @@
 }
 
 .color-list {
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  padding-left: 50%;
+  
 }
-/* .token-name {
-  width: 100px;
-  float: left;
-} */
+.token-name {
+  /* width: 100px; */
+  /* float: left; */
+  /* margin: 0 auto; */
+  /* padding-left: 50%; */
+  display: inline-block;
+}
 
 .color-value {
-  float: right;
+  /* float: right; */
+  display: inline-block;
   width: 100px;
+  /* padding-left: 50%; */
 }
 
 
